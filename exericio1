@@ -1,0 +1,7 @@
+print("Qual o salario do funcionario")
+salario = int(input())
+print("ele tem q ter 100%")
+
+novosalario =  salario * 1.1
+
+print(novosalario)
